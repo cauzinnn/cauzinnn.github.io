@@ -40,7 +40,7 @@ theme = "hugo-theme-m10c"
 
   # Default theme
   [params.style]
-    darkestColor = "#2e3440"
+    darkestColor = "#25282e"
     darkColor = "#2e3440"
     lightColor = "#afbac4"
     lightestColor = "#ffffff"
