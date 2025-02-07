@@ -29,7 +29,6 @@ theme = "hugo-theme-m10c"
   description = "homem cis hétero, 23 anos, 183cm, nerd"
   menu_item_separator = "|"
   avatar = "avatar.jpg"
-  favicon = "favicon.ico"
   [[params.social]]
     icon = "brand-github"
     name = "Github"
