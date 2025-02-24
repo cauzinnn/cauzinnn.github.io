@@ -10,19 +10,14 @@ theme = "hugo-theme-m10c"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "home"
+    name = "input"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    name = "tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.main]]
     identifier = "about"
-    name = "about"
+    name = "sobre"
     url = "/about/"
-    weight = 3
+    weight = 2
 
 [params]
   author = "gabriel"
@@ -30,13 +25,25 @@ theme = "hugo-theme-m10c"
   menu_item_separator = "|"
   avatar = "avatar.jpg"
   [[params.social]]
-    icon = "brand-github"
+    icon = "brand-myanimelist"
+    name = "MyAnimeList"
+    url = "https://myanimelist.net/profile/_Arch___"
+  [[params.social]]
+    icon = "github"
     name = "Github"
     url = "https://github.com/cauzinnn"
   [[params.social]]
-    icon = "brand-twitter"
+    icon = "twitter"
     name = "Twitter"
     url = "https://twitter.com/_nobre___"
+  [[params.social]]
+    icon = "brand-whatsapp"
+    name = "Whatsapp"
+    url = "https://wa.me/+5521975432887"
+  [[params.social]]
+    icon = "brand-letterboxd"
+    name = "Letterboxd"
+    url = "https://letterboxd.com/cauzinn/"
 
   # Default theme
   [params.style]
