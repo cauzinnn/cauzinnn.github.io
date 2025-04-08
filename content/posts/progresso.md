@@ -43,3 +43,15 @@ vou colocar algumas fotos aqui pra me motivar mais. Ver o progresso é uma das m
 ## 26 de fevereiro
 ![asdas](/progresso/26fevereiro.jpg)
 ![asdas](/progresso/262fevereir.jpg)
+
+
+## 13 de março
+![asdas](/progresso/13marco.jpg)
+
+
+## 20 de março
+![asdas](/progresso/20marco.jpg)
+
+
+## 2 de abril
+![asdas](/progresso/2abril.jpg)
