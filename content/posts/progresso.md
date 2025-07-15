@@ -55,3 +55,10 @@ vou colocar algumas fotos aqui pra me motivar mais. Ver o progresso é uma das m
 
 ## 2 de abril
 ![asdas](/progresso/2abril.jpg)
+
+
+## 11 de julho
+![asdas](/progresso/13julho.jpg)
+
+## 15 de julho
+![asdas](/progresso/15julho.jpg)
